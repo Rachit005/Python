@@ -28,4 +28,3 @@ is_promoted	(Target) -  Recommended for promotion
  
 Expectations and Evaluation:
 We expect the candidate to build a model upon training data (70% of the train_hr.csv) and evaluate the model on the validation data, (30% of the train_hr.csv). Use the random_state=10 while splitting the data. Use the model to predict upon the test_hr.csv. 
-Candidates are free to use any of the algorithms to build the model and the evaluation metric for this competition is F1_Score on the validation data.
