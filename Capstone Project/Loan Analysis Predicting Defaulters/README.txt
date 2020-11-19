@@ -2,7 +2,7 @@
     and latest payment information. 
 2. Our dataset contains total of 8,55,969 records with 72 features including target variable. 
 3. Moreover, the dataset is very unbalanced, with approximately 6 % of loans considered as defaulted. 
-4. his dataset has different types of features such as categorical, numeric & date.
+4. This dataset has different types of features such as categorical, numeric & date.
 
 
 Data Source Link : https://drive.google.com/drive/folders/1_1F2RyGxTy-CxqAVenPofle-ZasETaDp?usp=sharing
