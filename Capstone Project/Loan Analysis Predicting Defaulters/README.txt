@@ -6,3 +6,7 @@
 
 
 Data Source Link : https://drive.google.com/drive/folders/1_1F2RyGxTy-CxqAVenPofle-ZasETaDp?usp=sharing
+
+Final_Project_File.ipynb contains various models that are build on this data.
+
+Prediction's using Model Object.ipynb file has made the predictions using the model object that was selected while evaluating the model (In this case ADABOOST).
