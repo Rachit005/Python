@@ -23,8 +23,3 @@ Data Source : kaggle.com
     Cross Validation using Logistic Regression 95%
     Decision Tree 99.97%
     Bagging Algorithm 99.99%
-    KNearest Neighbors 99.85%
-
-8) While upsampling the data for class (1) Fraud I have upsampled to 2,00,000 and 2,50,000 observations,
-to find the difference between the Overall accuracy of the model, Precision & recall value.
-Refer to file Results.xlsx
