@@ -20,6 +20,5 @@ Data Source : kaggle.com
 7) Used AUC-ROC metric to check the models ability to classify.
     Area Under Curve values are as follows
     Logistic Regression 95%  
-    Cross Validation using Logistic Regression 95%
     Decision Tree 99.97%
-    Bagging Algorithm 99.99%
+    Bagging Algorithm 100%
