@@ -1,7 +1,7 @@
 Reliance Closing Price Analysis
 Data Source : finance.yahoo.com
 
-1) The data file contains 7 attributes/variables and 6282 observations.
+1) The data file contains 7 attributes/variables and 6282 observations where data is from 1st January 1996 to 27th November 2020.
 2) There are 127 missing values.
 3) Attribute/Variable details
     i]   Date	- Date Variable, Particular date
