@@ -14,7 +14,7 @@ Data Source : finance.yahoo.com
                      Adjusted close price adjusted for both dividends and splits.
     vii] Volume - Trading volume is a measure of how much of a given financial asset has traded in a period of time. 
 
-4) Time Series Algorithms used are Simple / Single Exponential Smoothing, Holt's Trend Method / Double Exponential Smoothing,
+4) Time Series Algorithms used are Simple / Single Exponential Smoothing, Holt's Linear Trend Method / Double Exponential Smoothing,
    Holt's Winter Method / Triple Exponential Smoothing, ARIMA to predict the Average Monthly Closing Price. 
                                   
 5) Used RMSE and AIC to evaluate the Models
