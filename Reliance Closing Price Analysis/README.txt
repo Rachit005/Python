@@ -4,10 +4,10 @@ Data Source : finance.yahoo.com
 1) The data file contains 7 attributes/variables and 6282 observations where data is from 1st January 1996 to 27th November 2020.
 2) There are 127 missing values.
 3) Attribute/Variable details
-    i]   Date	- Date Variable, Particular date
-    ii]  Open - Opening Price on particular date
-    iii] High - How much High the price went / Maximum Price on particular date
-    iv]  Low - How much Low the price went / Minimum Price on particular date
+    i]   Date  - Date Variable, Particular date
+    ii]  Open  - Opening Price on particular date
+    iii] High  - How much High the price went / Maximum Price on particular date
+    iv]  Low   - How much Low the price went / Minimum Price on particular date
     v]   Close - Closing Price on particular date
                  Close price adjusted for split.
     vi]  Adj Close - Adjusted Closing Price on particular date
